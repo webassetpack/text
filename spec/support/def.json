@@ -1,3 +1,5 @@
 {
-    "test.txt": "./spec/support/test-pkg/data.txt"
+    "test.txt": {
+        "path": "./spec/support/test-pkg/data.txt"
+    }
 }

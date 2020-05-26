@@ -4,6 +4,7 @@
         "outDir": "./spec",
         "declaration": false,
         "sourceMap": false,
+        "module": "CommonJS",
         "resolveJsonModule": true,
         "esModuleInterop": true
     },
@@ -12,6 +13,7 @@
     ],
     "exclude": [
         "lib",
-        "node_modules"
+        "node_modules",
+        "dist"
     ]
 }
